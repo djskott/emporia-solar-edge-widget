@@ -2,6 +2,14 @@
 .gradle-home/
 .gradle-tmp/
 .kotlin/
+.tools/
+.idea/
+*.iml
 build/
 local.properties
+artifacts/
+*.apk
+*.aab
+*.ap_
+*.zip
 app/build/
