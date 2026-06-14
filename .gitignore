@@ -1,0 +1,7 @@
+.gradle/
+.gradle-home/
+.gradle-tmp/
+.kotlin/
+build/
+local.properties
+app/build/
